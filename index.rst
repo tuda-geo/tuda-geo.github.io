@@ -1,8 +1,10 @@
-=============================================
-ETU Delft - Data Assimilation for Geosciences
-=============================================
+============================================
+TU Delft - Data Assimilation for Geosciences
+============================================
 
-Codes of the Research Group of Prof. [Femke Vossepoel)[https://www.tudelft.nl/en/ceg/geoscience-engineering/femke-vossepoel) at TU Delft.
+Codes of the Research Group of Prof. `Femke Vossepoel <https://www.tudelft.nl/en/ceg/geoscience-engineering/femke-vossepoel>`_ at TU Delft.
+
+See `github.com/tuda-geo <https://github.com/tuda-geo>`_
 
 |
 |
