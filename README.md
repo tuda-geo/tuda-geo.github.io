@@ -19,3 +19,4 @@ make deploy
 A GitHub Action is set up which will do that for each commit.
 
 The website is served to https://tuda-geo.github.io.
+
