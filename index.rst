@@ -2,7 +2,7 @@
 TU Delft - Data Assimilation for Geosciences
 ============================================
 
-Codes of the Research Group of Prof. `Femke Vossepoel <https://www.tudelft.nl/en/ceg/geoscience-engineering/femke-vossepoel>`_ at TU Delft.
+Codes of the Research Group of Prof. `Femke C. Vossepoel <https://www.tudelft.nl/staff/f.c.vossepoel/>`_ at TU Delft.
 
 See `github.com/tuda-geo <https://github.com/tuda-geo>`_
 
@@ -15,27 +15,27 @@ See `github.com/tuda-geo <https://github.com/tuda-geo>`_
 
     .. grid-item-card::
 
-        resmda - Reservoir Simulation with ES-MDA
-        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        dageo - Data Assimilation in Geosciences
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-        .. button-link:: https://tuda-geo.github.io/resmda
+        .. button-link:: https://tuda-geo.github.io/dageo
             :expand:
             :color: info
             :click-parent:
 
-            tuda-geo.github.io/resmda
+            tuda-geo.github.io/dageo
 
         A simple 2D reservoir simulator and a straight-forward implementation
-        of the basic Ensemble Smoother with Multiple Data Assimilation (ES-MDA)
+        of the basic Ensemble Smoother with Multiple Data Assimilation (ESMDA)
         algorithm.
 
         ++++++
 
         .. code:: bash
 
-            pip install resmda
+            pip install dageo
 
         .. code:: bash
 
-            conda install -c conda-forge resmda
+            conda install -c conda-forge dageo
 
